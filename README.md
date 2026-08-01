@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhishek052005/DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/abhishek052005/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhishek052005/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -14,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhishek052005/DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/abhishek052005/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhishek052005/DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/abhishek052005/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhishek052005/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
