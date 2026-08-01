@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhishek052005/DSA/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/abhishek052005/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/abhishek052005/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhishek052005/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhishek052005/DSA/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/abhishek052005/DSA/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/abhishek052005/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhishek052005/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
