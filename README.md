@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhishek052005/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/abhishek052005/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhishek052005/DSA/tree/master/0268-missing-number) |
+| [1480-running-sum-of-1d-array](https://github.com/abhishek052005/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/abhishek052005/DSA/tree/master/3498-reverse-degree-of-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/abhishek052005/DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
